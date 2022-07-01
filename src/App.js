@@ -4,9 +4,6 @@ import Hero from './Components/Hero';
 import Card from './Components/Card';
 
 
-
-
-
 function App() {
   
 
@@ -15,6 +12,14 @@ function App() {
       
       <Navbar />
       <Hero />
+      <Card 
+        img="swim.png"
+        rating="5.0"
+        reviewCount={6}
+        country="USA"
+        title="Life lessons with K."
+        price={100}
+      />
       <Card />
       
     </div>
