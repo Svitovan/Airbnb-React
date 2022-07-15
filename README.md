@@ -1,4 +1,4 @@
-<img src="../images/title.png" style="hegth:250px;">
+<img src="/public/images/title.png" style="hegth:250px;">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
